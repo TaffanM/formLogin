@@ -2,6 +2,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url('../img/white-abstract-background-design_23-2148825582.webp');
 }
 
 table {
@@ -42,8 +43,7 @@ tr:hover {
 .container {
     width: 300px;
     height: 300px;
-    display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     margin-top: 100px;
 }

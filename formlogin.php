@@ -12,8 +12,8 @@
 <div class="overlay">
   <form method="POST" action="ceklogin.php" class="box">
     <div class="header">
-      <h4>Login</h4>
-      <p>Masukkan username dan password anda</p>
+      <h2>Login</h2>
+      <p>Masukkan Username <br>dan Password anda</p>
     </div>
 
     <div class="login-area">
