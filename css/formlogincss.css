@@ -49,7 +49,7 @@ body {
     outline: none;
     border: none;
     color: #000;
-    background-color: rgb(183, 235, 148, .5);
+    background-color: beige;
     margin-bottom: 20px;
     transition: .5s;
 }
@@ -61,13 +61,13 @@ body {
 
 .username:focus,
 .password:focus {
-    background-color: rgb(183, 235, 148, .7);
+    background-color: #e6af71;
 }
 
 .button {
     width: 150px;
     padding: 10px;
-    background-color: #370a37;
+    background-color: #8f3610;
     border-radius: 10px;
     font-weight: bold;
     color: white;
@@ -79,5 +79,5 @@ body {
 }
 
 .button:hover {
-    background-color: #470b3a;
+    background-color: #661930;
 }
